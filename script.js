@@ -26,7 +26,7 @@ const perguntas = [
             'Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.'
         ]
     },
-     {
+    {
         enunciado: 'Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?',
         alternativas: [
             'Criar uma imagem utilizando uma plataforma de design como o Paint.',
